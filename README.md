@@ -77,4 +77,4 @@ The processed data is made available for analysis through Azure Synapse Analytic
 
 For detailed setup instructions, refer to the [GUIDE.md](./guide.md) file.
 
-
+Demo stolen from Luke J Byrne :")
