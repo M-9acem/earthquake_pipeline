@@ -77,6 +77,4 @@ The processed data is made available for analysis through Azure Synapse Analytic
 
 For detailed setup instructions, refer to the [GUIDE.md](./GUIDE.md) file.
 
-## License
 
-[MIT](LICENSE)
