@@ -75,6 +75,6 @@ The processed data is made available for analysis through Azure Synapse Analytic
 
 ## Setup Guide
 
-For detailed setup instructions, refer to the [GUIDE.md](./GUIDE.md) file.
+For detailed setup instructions, refer to the [GUIDE.md](./guide.md) file.
 
 
